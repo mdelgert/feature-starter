@@ -186,3 +186,15 @@ An example `devcontainer.json` can be found below.
     }
 }
 ```
+
+### Links
+https://github.com/devcontainers/feature-starter
+https://github.com/github/dotnet-codespaces
+https://github.com/devcontainers/features
+https://github.com/devcontainers/templates
+https://github.com/dotnet/dotnet-docker
+https://github.com/devcontainers/images
+https://github.com/devcontainers/cli
+https://github.com/microsoft/vscode-remote-try-dotnet
+https://containers.dev/features
+https://containers.dev/implementors/features/
